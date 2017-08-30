@@ -3,7 +3,7 @@ CCFLAGS := -ggdb
 
 all: $(TARGET)
 
-$(TARGET): lex.yy.o
+$(TARGET): lex.yy.o node.o
 	$(CC) $(CCFLAGS) -o $@ $^ -lfl
 
 lex.yy.o: lex.yy.c
