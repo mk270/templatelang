@@ -1,0 +1,23 @@
+
+This data file should generate the repetitive Old Latin hymn, the
+Carmen Arvale, twice, as an example of nested loops.
+
+See https://en.wikipedia.org/wiki/Carmen_Arvale
+
+LOOP_2
+Carmen Arvale
+-------------
+LOOP_3
+enos Lases iuuate ENDLOOP
+LOOP_3
+neue lue rue Marmar sins incurrere in pleores ENDLOOP
+LOOP_3
+satur fu, fere Mars, limen sali, sta berber ENDLOOP
+LOOP_3
+semunis alternei advocapit conctos ENDLOOP
+LOOP_3
+enos Marmor iuuato ENDLOOP
+
+LOOP_5triumpe ENDLOOP
+
+ENDLOOP
